@@ -4,6 +4,7 @@
 
 An end-to-end trust-aware AI system for retinal disease diagnosis from OCT scans, integrating multimodal deep learning, uncertainty estimation, explainable AI, and LLM-generated clinical rationales for reliable clinical decision support.
 
+Code release coming soon!
 ## Overview
 
 This project processes raw OCT B-scan images and generates:
@@ -96,4 +97,3 @@ The system performs 4-class retinal disease classification:
 
 ---
 
-Code is releasing soon.

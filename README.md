@@ -1,9 +1,10 @@
 # Uncertainty-Aware Multimodal Clinical Decision System for Retinal Disease Diagnosis Using OCT Scans
 
-🚀 **Patent Published:** Application No. **202641051634**
-
 > [!IMPORTANT]
-> 🚧 Code Release Coming Soon!
+> Code Release Coming Soon!✨
+
+
+🚀 **Patent Published:** Application No. **202641051634**
 
 An end-to-end trust-aware AI system for retinal disease diagnosis from OCT scans, integrating multimodal deep learning, uncertainty estimation, explainable AI, and LLM-generated clinical rationales for reliable clinical decision support.
 
